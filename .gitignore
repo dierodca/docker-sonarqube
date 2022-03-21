@@ -1,0 +1,8 @@
+### Postgres ###
+/postgresql/data/
+
+### Sonarqube ###
+/sonarqube/data/
+/sonarqube/extensions/
+/sonarqube/logs/
+/sonarqube/temp/
